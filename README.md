@@ -1,1 +1,1 @@
-Need to check how to add nodemodules to package.json
+nga clean-install
